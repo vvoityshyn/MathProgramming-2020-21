@@ -1,1 +1,1 @@
-# MathProgramming-2020-21
+# Mathematical Programming 2020/21 (KN-217F)
